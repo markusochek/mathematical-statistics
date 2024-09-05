@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 80%;
+}
