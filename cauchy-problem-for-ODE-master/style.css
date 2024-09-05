@@ -1,0 +1,15 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 80%;
+
+}
